@@ -1,1 +1,3 @@
-![image](https://github.com/Tuandev03/profile/assets/103433423/1fa6522f-b2bf-41df-ab70-3cb4f1cda07e)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
